@@ -2,9 +2,7 @@
 Description: adote como atividade complementar FINAL para esta etapa de entrega antes de eu realziar o COMMIT para produção seguir as instruçÕes desenvolvidas para ajudar VOCE a documentar esta fonte de verdades envolvendo suas atividades como LLM Redable, 
 Objective: tomar como Boas Praticas a partir deste momento concluir COMO entregravel de suas evidencias de atividade conforme as orientaçÕes solicitadas pelo time que ficara responsavel pela manutenção desta aplicação a partir do momento que for para produção. 
 Guardrails: Por favor adote uma leitura cautelosa aos detalhes fornecidos, revise as atividades envolvidas em #file:GEMINI-instructions.md.ts e adote todas as instruções como SEU desafio final para concluir seu excelente trabalho até aqui AO REVISAR E ADOTAR SEU MÁXIMO PODER DE SINTESE PARA GARANTIR A QUALIDADE DE SEU ENTREGAVEL FINAL. 
-Remember: (NAO SE ESQUEÇA DE ENTREGAR SUAS EVIDENCIAS DENTRO DO REPOSITÓRIO DO PROJETO CRIADO A PARTIR DESTE MODELO.
-***
-`RAIZ: ./DOCS` conforme as instruções fornecidas criando, incrementando e complementando de forma persistente conforme sua evolução em local definitivo fixado em /docs/* para formalizar seus entregáveis)
+Remember: (NAO SE ESQUEÇA DE ENTREGAR SUAS EVIDENCIAS DENTRO DO REPOSITÓRIO DO PROJETO CRIADO A PARTIR DESTE MODELO. "#RAIZ_DO_PROJETO/DOCS" conforme as instruções fornecidas criando, incrementando e complementando de forma persistente conforme sua evolução em local definitivo fixado em /docs/* para formalizar seus entregáveis)
 ---
 
 ## Este documento deve ser Operado como FONTE UNICA DE VERDADE (SSOT - Single Source of Truth), onde o seu Mind set deve ENCARA como:
